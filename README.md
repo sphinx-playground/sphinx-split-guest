@@ -1,6 +1,6 @@
-# sphinx-split-project
+# sphinx-split-guest
 
-This is a stand-alone source repository that's part of a decoupled split-repository framework. It serves as the isolated target for its companion [sphinx-split-sphinx](https://github.com/sphinx-playground/sphinx-split-sphinx) documentation-pipeline repository.
+This is a stand-alone source repository that's part of a decoupled split-repository framework. It serves as the isolated target for its companion [sphinx-split-host](https://github.com/sphinx-playground/sphinx-split-host) documentation-pipeline repository.
 
 ## Demonstrated features
 
@@ -10,7 +10,7 @@ This is a stand-alone source repository that's part of a decoupled split-reposit
 ## Repository layout
 
 ```text
-sphinx-split-project/
+sphinx-split-guest/
 ├── codebase/          # Directory for a demonstration code-base
 │   └── example.py     # Python module with reST docstrings
 ├── .gitignore         # Defensive tracking shield
