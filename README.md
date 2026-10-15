@@ -1,11 +1,11 @@
 # sphinx-split-project
 
-This is a stand-alone source repository that's part of a decoupled duo-repository framework and that serves as the isolated target for its companion documentation-pipeline repository.
+This is a stand-alone source repository that's part of a decoupled split-repository framework. It serves as the isolated target for its companion [sphinx-split-sphinx](https://github.com/sphinx-playground/sphinx-split-sphinx) documentation-pipeline repository.
 
 ## Demonstrated features
 
-* **Decoupled Architecture**: Serves as a pure source repository completely isolated from the Sphinx compilation engine.
-* **Source Hygiene**: Demonstrates clean docstring structuring using standard reST styling without any internal documentation tooling overhead.
+* **Decoupled architecture**: Serves as a pure source repository completely isolated from the **Sphinx** compilation-engine.
+* **Source hygiene**: Demonstrates clean docstring structuring using standard **reST** styling without any internal documentation-tooling overhead.
 
 ## Repository layout
 
